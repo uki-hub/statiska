@@ -1,0 +1,51 @@
+Diketahui atribut dan data hasil survei "Hubungan Regresi/Pengaruh Antara Youtube dan Minat Belajar Mahasiswa" sebagai berikut:
+- Jenis Kelamin Responden
+- Responden menggunakan YouTube sebagai media pembelajaran
+- Responden sering menggunakan YouTube sebagai alat bantu dalam belajar
+- YouTube membuat proses pembelajaran mahasiswa menjadi lebih mudah dan menyenangkan
+- Mahasiswa lebih memahami materi apabila disertakan video pembelajaran (Terutama dari Youtube)
+- Konten video YouTube dirasa sudah cukup memenuhi kebutuhan belajar responden
+- Responden sering menggunakan Youtube sebagai penambah minat belajar
+- Responden menyukai kualitas content creator akademis yang ada di Youtube
+- Responden merasa video pembelajaran di YouTube membuatnya termotivasi untuk belajar lebih lanjut dalam konteks perkuliahan
+
+Perempuan: [ 3, 4, 4, 4, 3, 4, 3, 3]
+Laki-laki: [ 4, 4, 4, 4, 3, 3, 3, 4]
+Laki-laki: [ 4, 3, 3, 3, 3, 3, 3, 3]
+Laki-laki: [ 3, 3, 3, 3, 3, 3, 4, 3]
+Laki-laki: [ 3, 3, 3, 3, 3, 3, 3, 3]
+Laki-laki: [ 3, 4, 3, 4, 3, 2, 3, 3]
+Laki-laki: [ 4, 3, 4, 3, 4, 4, 3, 3]
+Laki-laki: [ 4, 4, 4, 4, 4, 4, 4, 4]
+Perempuan: [ 1, 2, 3, 4, 3, 3, 3, 4]
+Laki-laki: [ 4, 4, 4, 4, 4, 4, 3, 4]
+Perempuan: [ 3, 3, 3, 4, 2, 3, 3, 3]
+Laki-laki: [ 4, 4, 4, 4, 4, 4, 4, 4]
+Laki-laki: [ 4, 4, 4, 4, 4, 3, 3, 3]
+Laki-laki: [ 3, 3, 3, 3, 3, 3, 3, 3]
+Perempuan: [ 1, 1, 1, 1, 1, 1, 1, 1]
+Laki-laki: [ 4, 4, 4, 4, 4, 4, 4, 4]
+Laki-laki: [ 4, 4, 4, 4, 4, 4, 4, 4]
+Laki-laki: [ 3, 4, 3, 3, 2, 2, 3, 3]
+Laki-laki: [ 4, 4, 4, 4, 4, 4, 4, 4]
+Laki-laki: [ 2, 4, 3, 2, 3, 3, 1, 1]
+Laki-laki: [ 3, 3, 3, 3, 3, 3, 3, 3]
+Perempuan: [ 4, 3, 4, 4, 3, 3, 3, 4]
+Laki-laki: [ 3, 4, 4, 4, 3, 3, 4, 4]
+Perempuan: [ 3, 3, 3, 3, 3, 3, 3, 3]
+Laki-laki: [ 3, 3, 3, 3, 2, 3, 3, 3]
+Perempuan: [ 3, 2, 3, 4, 3, 3, 4, 3]
+Laki-laki: [ 4, 3, 3, 3, 3, 3, 3, 3]
+Laki-laki: [ 4, 4, 4, 4, 4, 4, 4, 4]
+Perempuan: [ 4, 3, 3, 3, 3, 3, 3, 3]
+Laki-laki: [ 4, 4, 4, 4, 3, 4, 4, 4]
+Laki-laki: [ 4, 4, 4, 4, 3, 3, 3, 4]
+Laki-laki: [ 3, 4, 4, 3, 3, 3, 3, 3]
+Perempuan: [ 3, 3, 3, 4, 2, 3, 3, 2]
+Perempuan: [ 4, 4, 4, 3, 3, 4, 3, 4]
+Perempuan: [ 4, 4, 4, 4, 4, 4, 4, 4]
+
+buatkan perhitungan manualnya dari
+- Uji Instrumen
+- Uji Reliabilitas
+- Uji Regresi Berganda
